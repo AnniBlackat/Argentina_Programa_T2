@@ -70,5 +70,5 @@ function App() {
   );
 };
 
-//<ThingsToDo tasks={tareas}></ThingsToDo>
+
 export default App;
