@@ -9,5 +9,5 @@ return (
    
 );
 }
-//{tareas.map(t  => <TaskItem tarea={t}/>)}
+
 export default TaskList;
